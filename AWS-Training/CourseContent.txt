@@ -1,0 +1,18 @@
+5 days
+* Pre-requiste basics
+
+*
+
+1) Networking:
+    * How networking works
+    * How data transfer from one end to other end (layers)
+    * What is virtual networking and how does it work
+    * IP address space and Subnetting
+        * Decimal to binary convertion
+2) Compute
+    * Virtualization basics
+3) Storage
+    * Types of Storage and how virtual storage works in cloud
+4) SSL & TLS
+5) Encryption
+6) DNS
